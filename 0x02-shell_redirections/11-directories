@@ -1,3 +1,3 @@
 #!/bin/bash
-ls -Rp|grep "*/"|wc -l
+ls -aRp|grep "*/"|wc -l
 
