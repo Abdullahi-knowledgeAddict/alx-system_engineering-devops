@@ -1,1 +1,1 @@
-              MY UNIX OS JOURNEY.
+This is a readme on the Shell Project
